@@ -195,7 +195,7 @@ http://localhost:5173
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add **score tracking** across multiple rounds to track player performance.
 - Implement an **AI opponent** for single-player mode using minimax or heuristic algorithms.

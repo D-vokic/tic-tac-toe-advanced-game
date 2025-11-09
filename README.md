@@ -25,7 +25,7 @@ Ready to test-drive the project? The demo is just [one click](https://tic-tac-to
 ## Navigation
 
 - [Description](#description)
-- [Demo](#-demo)
+- [Demo](#demo)
 - [Navigation](#navigation)
 - [Technologies Used](#technologies-used)
 - [Features](#features)

@@ -18,7 +18,7 @@ This project is a modern, responsive **Tic-Tac-Toe with Dark/Light Mode and Clea
 
 ## Demo
 
-Ready to test-drive the project? The demo is just [one click]() away!
+Ready to test-drive the project? The demo is just [one click](https://tic-tac-toe-expanded.netlify.app/) away!
 
 ---
 
@@ -142,13 +142,13 @@ tic-tac-toe-future-dark-light-mode/
 1. Clone the repository.
 
 ```Bash
-git clone https://github.com/D-vokic/tic-tac-toe-future.git
+git clone https://github.com/D-vokic/tic-tac-toe-advanced-game
 ```
 
 2. Navigate to the project folder:
 
 ```Bash
-cd tic-tac-toe-future
+cd tic-tac-toe-advanced-game
 ```
 
 3. Install dependencies:
@@ -244,7 +244,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 **Author:** Duško Vokić  
 **Role:** Front-End Developer & System Administrator
 
-This project is maintained by me. You can reach out to me on [GitHub]() or [LinkedIn](https://www.linkedin.com/in/duskovokic/) for any queries or suggestions.
+This project is maintained by me. You can reach out to me on [GitHub](https://github.com/D-vokic) or [LinkedIn](https://www.linkedin.com/in/duskovokic/) for any queries or suggestions.
 
 ---
 
@@ -269,7 +269,7 @@ and to all developers who inspire clean code and creative UI design.
 
 ## Links
 
-- **Live Demo:** [Tic-Tac-Toe Future with Dark/Light Mode and Clear Names Button]()
+- **Live Demo:** [Tic-Tac-Toe Future with Dark/Light Mode and Clear Names Button](https://tic-tac-toe-expanded.netlify.app/)
 - **Repository:** [GitHub Repo](https://github.com/D-vokic/tic-tac-toe-future)
 
 ---
